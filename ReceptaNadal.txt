@@ -1,6 +1,10 @@
 Recepta d’un plat nadalenc...
 <<<<<<< HEAD
+<<<<<<< HEAD
 Biel Nieto
+=======
+hola natalia que tal
+>>>>>>> d10c6811165abef0fc6310a8a7e5b7d874a10ee5
 =======
 hola natalia que tal
 >>>>>>> d10c6811165abef0fc6310a8a7e5b7d874a10ee5
